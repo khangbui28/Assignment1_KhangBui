@@ -11,4 +11,4 @@ This is a job simulation and survival-horror style game. A spin-off of multiple 
 
 ![Diagram](https://github.com/user-attachments/assets/4da66e74-b2fb-4c26-a772-2544d6bab5c3)
 
-
+Due to file size too large for git, here is a google drive of the game build: https://drive.google.com/file/d/1Jb9TJiHnKrMTwf55OyuV3Ix59E5TNJIV/view?usp=sharing 
